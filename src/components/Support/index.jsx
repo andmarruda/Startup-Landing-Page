@@ -24,7 +24,8 @@ const Support = () => {
               </h4>
 
               <p className="mb-8">
-                Our support team will get back to you ASAP via email.
+                Our support team will get back to you ASAP via email.<br />
+                Call Us: <a href="tel:+19999999999">(999) 999-9999</a>
               </p>
 
               <form className="grid gap-8 sm:grid-cols-2 " action="">

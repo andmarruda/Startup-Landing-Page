@@ -12,7 +12,8 @@ const AboutHeader = () => {
             <h2 className="section-title mb-2">About Page</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius
-              eros eget sapien consectetur ultrices. Ut quis dapibus libero.
+              eros eget sapien consectetur ultrices. Ut quis dapibus libero.<br />
+              Feel free to call us at <span className="text-blue-500">(999) 999-9999</span>
             </p>
           </RowItem>
 

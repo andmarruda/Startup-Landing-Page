@@ -203,6 +203,9 @@ const Footer = () => {
                   About
                 </NavLink>
               </li>
+              <li>
+                Call Us: <a href="tel:+19999999999">(999) 999-9999</a>
+              </li>
             </ul>
           </RowItem>
 
